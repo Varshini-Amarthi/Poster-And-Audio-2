@@ -1,6 +1,6 @@
 A creative and interactive HTML project that showcases movie posters with associated audio previews (ringtones). Users can easily preview, listen, and download content using pure HTML — no JavaScript or CSS needed!
 
- Features:
+Features:
 Expandable sections using <details> and <summary>
 
 Built-in audio playback with autoplay, loop, and mute features
